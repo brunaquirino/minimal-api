@@ -45,7 +45,7 @@ Isso iniciará a API localmente, geralmente na URL *https://localhost:5001*.
 
 ## Considerações Finais
 
-Este é um sistema simples de cadastro de veículos com autenticação de administradores, utilizando as tecnologias C#, .NET, MySQL e JWT para autenticação. A aplicação pode ser expandida para incluir mais funcionalidades, como atualização e exclusão de veículos, além de uma interface gráfica (frontend) para facilitar a interação.
+Este é um sistema simples de cadastro de veículos com autenticação de administradores, utilizando as tecnologias C#, .NET, MySQL e JWT para autenticação.
 
 --------------------------------
 
@@ -98,4 +98,4 @@ This will start the API locally, usually at the URL https://localhost:5001.
 
 ## Final Considerations
 
-This is a simple vehicle registration system with administrator authentication, using the technologies C#, .NET, MySQL, and JWT for authentication. The application can be expanded to include more features, such as vehicle update and deletion, as well as a graphical interface (frontend) to facilitate interaction.
+This is a simple vehicle registration system with administrator authentication, using the technologies C#, .NET, MySQL, and JWT for authentication.
